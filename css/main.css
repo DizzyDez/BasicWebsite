@@ -52,6 +52,27 @@ img {
 div {
   font-size: 4em;
 }
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+  color:#b32f52;
+  font-size: 2rem;
+  border-top: 3px solid #ffe524;
+  padding: 4px
+}
+
+h3 {
+  font-family: 'Sigmar One', cursive;
+  color:#b32f52;
+  font-size: 1.5rem;
+}
+
+footer {
+  color: #b32f52;
+  background-color:#ffe524;
+  padding: 3em 3em 3em 3em;
+}
+
 .largeitalic {
   font-size: 2em;
   color: #b2a215;
