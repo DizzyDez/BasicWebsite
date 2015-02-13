@@ -37,6 +37,7 @@ a {
 ol {
   list-style: none;
   padding: 0;
+  text-align:center;
 }
 
 ol li {
@@ -90,6 +91,7 @@ figcaption {
 }
 
 .quote {
+  font-size: 4em;
   margin:0;
   line-height:0.2;
   padding: 0.7em 0 0 0;
