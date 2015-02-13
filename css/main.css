@@ -27,8 +27,11 @@ nav a {
   font-size:1.3rem;
 }
 
-a:hover {
+nav a:hover {
   background-color: #b32f52;
+}
+a {
+  color:  #b32f52;
 }
 
 ol {
@@ -72,6 +75,12 @@ footer {
   background-color:#ffe524;
   padding: 3em 3em 3em 3em;
 }
+figcaption {
+  text-align:center;
+  font-style: italic;
+  font-weight: bold;
+  color:black;
+}
 
 .largeitalic {
   font-size: 2em;
@@ -80,12 +89,6 @@ footer {
   text-align:center;
 }
 
-.caption {
-  font-style: italic;
-  font-weight: bold;
-  color:black;
-  text-align:center;
-}
 .quote {
   margin:0;
   line-height:0.2;
